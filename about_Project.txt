@@ -1,0 +1,5 @@
+Agenda :
+
+1) create virtual environment
+2) create setup.py
+3) requirements.txt
